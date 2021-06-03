@@ -3,7 +3,7 @@
 ---------------
 _A slim cookiecutter template for reproducible science projects._
 ---------------
-This is modified from jbusecke's template: https://github.com/jbusecke/cookiecutter-science-project.  Most, but not all, of the readme below still applies. 
+6/3/2021: This is modified from jbusecke's template: https://github.com/jbusecke/cookiecutter-science-project.  Most, but not all, of the readme below still applies.  I am sure all of the CI and testing parts are broken, and I intend to eliminate those parts to make a template that is more similar to the way I am currently doing repositories.
 
 If you want to start a science project fast, but still encourage good coding practices and reproducibility without spending hours on the setup this template is for you.
 
